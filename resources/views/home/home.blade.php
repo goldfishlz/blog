@@ -8,10 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-
         <div>{{$a[0]}}</div>
         <div>{{$a[1]}}</div>
-
-
 </body>
 </html>
